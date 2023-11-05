@@ -6,6 +6,9 @@ I'm an advanced filter bot with many capabilities!
 There is no practical limits for my filtering capacity :)
 
 See help button for commands and more details
+
+made by @Mahsoommjm
+Join @Call_me_futurepilot
 """
 
 HelpTxT = """
@@ -34,13 +37,14 @@ Add me as admin in your group and start filtering :)
 /id  -  Shows ID information
 /info userid  -  Shows User Information. Use <code>/info</code> as reply to some message for their details!
 
-© @learningbots79
+© made by @Mahsoommjm
+Join @Call_me_futurepilot
 """
 
 AboutTxT = """
-⭕️ Official Channel : @learningbots79</b>
-⭕️ Developers : @TroJanzHEX 
-⭕️ Upgrader : @Mo_Tech_YT
-⭕️ Language : Python3
+⭕️ Official Channel : @Call_me_futurepilot</b>
+⭕️ Developer : @Mahsoommjm 
+⭕️ Upgrader : @Mahsoommjm
+⭕️ Language : Tamil & English
 ⭕️ Library : <a href='https://docs.pyrogram.org/'>Pyrogram 2.0.102</a> 
 """
